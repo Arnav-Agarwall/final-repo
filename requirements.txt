@@ -1,3 +1,6 @@
-pandas==2.2.3
-scikit-learn
-streamlit==1.39.0
+streamlit
+langchain
+langchain-community
+fpdf
+python-docx
+huggingface_hub
